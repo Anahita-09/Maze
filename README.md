@@ -1,3 +1,4 @@
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 # 🧩 Maze Adventure Game
 
 This is a 2-level interactive **maze adventure game** built using **p5.js** and **p5.play**. Players navigate through themed mazes using arrow keys and progress by reaching the "End" zone.
